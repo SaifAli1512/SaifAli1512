@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.wallpapersafari.com/11/33/EaO4ew.gif))]]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fw%2FEaO4ew&psig=AOvVaw2IwUv1oSbeWs7m3R6Ug0gs&ust=1682683856033000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDVpv6Dyv4CFQAAAAAdAAAAABBB)]
 <h1 align="center">Hi 👋, I'm Saif Ali Khan</h1>
 <h3 align="center">A software engineer who strives to solve complex problems and optimize performance.</h3>
 
