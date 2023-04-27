@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/SaifAli1512/SaifAli1512/blob/main/falling-numbers.mp4)
 <h1 align="center">Hi 👋, I'm Saif Ali Khan</h1>
 <h3 align="center">A software engineer who strives to solve complex problems and optimize performance.</h3>
 
